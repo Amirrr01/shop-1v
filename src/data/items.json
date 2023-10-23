@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "../img/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MacBook",
+    "price": 1199,
+    "imgUrl": "../img/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.25,
+    "imgUrl": "../img/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 15000.99,
+    "imgUrl": "../img/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Iphone 15",
+    "price": 1500,
+    "imgUrl": "../img/iphone.jpg"
+  },
+  {
+    "id": 6,
+    "name": "airpods",
+    "price": 349,
+    "imgUrl": "../img/airpods.jpg"
+  },
+  {
+    "id": 7,
+    "name": "samsung",
+    "price": 749,
+    "imgUrl": "../img/samsung.jpg"
+  },
+  {
+    "id": 8,
+    "name": "redmi 12",
+    "price": 300,
+    "imgUrl": "../img/redmi.jpg"
+  },
+  {
+    "id": 9,
+    "name": "dugatti",
+    "price": 3499,
+    "imgUrl": "../img/moto.jpg"
+  }
+]
